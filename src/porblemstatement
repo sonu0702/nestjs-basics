@@ -1,0 +1,5 @@
+- write an API take a string and an integer as input save it in DB till the server 
+is running and return UId in response
+- An api which will take uid and return the actual object which got saved in the
+last api
+
