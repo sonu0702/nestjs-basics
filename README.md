@@ -1,9 +1,9 @@
-Basic NestJs Server
+# Basic NestJs Server
 
-Postman Link for APIs exposed 
+# Postman Link for APIs exposed 
 - https://api.postman.com/collections/22605699-8c231bc8-e2f2-4393-8ede-9c0493ff342c?access_key=PMAT-01HCN13TDAANSV3Y9JEGEQX5G7
 
-Schema of table  `Basic`
+# Schema of table  `Basic`
 
 ```
 CREATE TABLE public.basic (
@@ -19,4 +19,6 @@ CREATE TABLE public.basic (
 ```
 
 # Running locally
-1. copy 
+1. copy sample.env into .env file and replace values.
+2. Run `npm run install`
+3. Run `npm run start:dev`
